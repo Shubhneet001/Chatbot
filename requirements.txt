@@ -6,3 +6,5 @@ langchain_community
 
 # others
 python-dotenv
+sentence-transformers
+faiss-cpu
